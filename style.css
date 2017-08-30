@@ -1,0 +1,35 @@
+body,
+html {
+    background: url(https://cdn.shutterstock.com/shutterstock/videos/13668212/thumb/1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#wrapper {
+    border: 2px solid black;
+    padding: 100px;
+    margin: 50px;
+    border-radius: 50px;
+    background-color: #DCDCDC;
+}
+
+.line {
+    width: 25%;
+    border-top: 3px solid black;
+    padding-top: 15px;
+}
+
+#searchBox {
+    margin-top: 30px;
+}
+
+#status {
+    margin-top: 40px;
+    font-family: Lobster;
+}
+
+#title {
+    font-family: Lobster;
+}
